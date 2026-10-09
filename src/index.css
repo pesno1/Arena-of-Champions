@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0d0906; /* Matches your constants.ts background */
+  margin: 0;
+  overflow: hidden;
+}
